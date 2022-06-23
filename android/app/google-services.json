@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "621181941636",
+    "project_id": "printasy-27ea3",
+    "storage_bucket": "printasy-27ea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621181941636:android:74298005d93a9f102c4fd1",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621181941636-r3uq2qupikhlqkt9vhm2bkt8f2pdrt9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_app",
+            "certificate_hash": "7656a9aad686467429ce9708fba2c5c7c90befb5"
+          }
+        },
+        {
+          "client_id": "621181941636-6gbqb800m7ump3kgaql07j2s1rl8o58g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPh7pxMM1cSdrA9uHNGN3R5W21G_2CGtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621181941636-6gbqb800m7ump3kgaql07j2s1rl8o58g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
